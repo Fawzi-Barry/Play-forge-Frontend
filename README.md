@@ -41,13 +41,3 @@ The frontend communicates with backend throught a RESTFul API, handling operatio
 * **Dashboard**: Advance dashboard for analytics and sentiment analysis.
 * **Follow feature**: Follow other users and games.
 
-
-## Environment Variables
-* PORT
-* JWT_SECRET
-* OTP_API
-* MONGODB_URL
-* SERP_API_KEY
-
-
-![image](https://github.com/user-attachments/assets/ce217f05-ca3b-4532-a7ce-c8a2b04ccb21)
