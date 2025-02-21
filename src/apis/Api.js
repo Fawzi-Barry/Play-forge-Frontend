@@ -3,7 +3,7 @@ import axios from "axios";
 // creating an instance of axios
 
 const Api = axios.create({
-  baseURL: "http://localhost:5000",
+  baseURL: "https://play-forge-backend.vercel.app",
   withCredentials: true,
   headers: {
     "Content-Type": "multipart/form-data",
